@@ -4,18 +4,14 @@ type: server
 meta:
   category: devtools
   tags:
-    - browser
-    - automation
-    - testing
-    - debugging
-    - performance
+    - TODO
 about:
-  title: Chrome DevTools
-  description: Control and inspect a live Chrome browser for automation, debugging, and performance analysis. Provides access to Chrome DevTools Protocol for screenshots, network inspection, console logs, and performance traces.
-  icon: https://www.google.com/s2/favicons?domain=chromedevtools.github.io&sz=64
+  title: Chrome-devtools (TODO)
+  description: TODO (only to provide a better description than the upstream project)
+  icon: https://avatars.githubusercontent.com/u/11260967?v=4
 source:
   project: https://github.com/Jaketdaniels/chrome-devtools-mcp
   upstream: https://github.com/ChromeDevTools/chrome-devtools-mcp
-  commit: 233713e7da5b67785e3f438227a4561880ac083e
+  commit: cdbcf4906391cf5bf5a40899f9e60021c370fdae
 config:
-  description: Configure Chrome DevTools MCP server
+  description: Configure the connection to TODO
