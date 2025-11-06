@@ -18,4 +18,4 @@ about:
 source:
   project: https://github.com/Jaketdaniels/chrome-devtools-mcp
   upstream: https://github.com/ChromeDevTools/chrome-devtools-mcp
-  commit: bc20d01c71207da140f653dd09c65cd320ab7f43
+  commit: 7485d4fc589ad321a307b6ae7ce66b56b37de040
