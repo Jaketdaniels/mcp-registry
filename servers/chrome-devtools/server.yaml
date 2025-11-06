@@ -1,0 +1,21 @@
+name: chrome-devtools
+image: mcp/chrome-devtools
+type: server
+meta:
+  category: devtools
+  tags:
+    - browser
+    - automation
+    - testing
+    - debugging
+    - performance
+about:
+  title: Chrome DevTools
+  description: Control and inspect a live Chrome browser for automation, debugging, and performance analysis. Provides access to Chrome DevTools Protocol for screenshots, network inspection, console logs, and performance traces.
+  icon: https://www.google.com/s2/favicons?domain=chromedevtools.github.io&sz=64
+source:
+  project: https://github.com/Jaketdaniels/chrome-devtools-mcp
+  upstream: https://github.com/ChromeDevTools/chrome-devtools-mcp
+  commit: 233713e7da5b67785e3f438227a4561880ac083e
+config:
+  description: Configure Chrome DevTools MCP server
