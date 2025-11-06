@@ -10,14 +10,12 @@ meta:
     - debugging
     - performance
     - chrome
-    - puppeteer
+    - devtools
 about:
-  title: Chrome DevTools Protocol
-  description: Control and inspect a live Chrome browser using the Chrome DevTools Protocol. Provides 26 tools for browser automation, screenshots, network inspection, console logs, performance monitoring, and debugging.
-  icon: https://www.google.com/s2/favicons?domain=chromedevtools.github.io&sz=128
+  title: Chrome DevTools
+  description: Control and inspect a live Chrome browser for automation, debugging, and performance analysis. Provides access to Chrome DevTools Protocol for screenshots, network inspection, console logs, and performance traces.
+  icon: https://www.google.com/s2/favicons?domain=chrome.com&sz=64
 source:
   project: https://github.com/Jaketdaniels/chrome-devtools-mcp
   upstream: https://github.com/ChromeDevTools/chrome-devtools-mcp
-  commit: cdbcf4906391cf5bf5a40899f9e60021c370fdae
-config:
-  description: Chrome DevTools MCP server - no additional configuration required
+  commit: bc20d01c71207da140f653dd09c65cd320ab7f43
